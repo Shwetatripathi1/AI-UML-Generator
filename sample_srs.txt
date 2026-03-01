@@ -1,0 +1,4 @@
+The system has a User who can login and register.
+The User can create Orders.
+Each Order contains multiple Products.
+Admin manages Users and Products.
